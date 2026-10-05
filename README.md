@@ -1,22 +1,49 @@
-## I'm Severyan 👋
+# Hi, I'm Severyan
 
-Junior ML Engineer focused on Machine Learning and Computer Vision.
+**Junior ML Engineer** focused on Machine Learning and Computer Vision.
 
-### Tech Stack
+I build end-to-end ML applications — from model training and evaluation to API development and containerized deployment.
 
-- Python, SQL, Pandas, NumPy
-- Scikit-learn, CatBoost, XGBoost
-- PyTorch, Ultralytics YOLO, OpenCV
-- FastAPI, Docker, Docker Compose
-- PostgreSQL
-- ML model evaluation and optimization
+## 🛠️ Tech Stack
 
-### Featured Projects
+**Machine Learning**
 
-🚗 ML Car Detection Service
-Computer vision inference service with YOLO, tracking,
-TensorRT, FastAPI, WebSockets, Gradio and Docker.
+* Python, SQL, Pandas, NumPy
+* Scikit-learn, CatBoost, XGBoost
+* Classification, regression, clustering
+* Feature engineering and model evaluation
 
-📊 Telco Churn Prediction API
-End-to-end tabular ML pipeline with model evaluation,
-F1 optimization, FastAPI, Docker and PostgreSQL.
+**Computer Vision**
+
+* PyTorch
+* Ultralytics YOLO
+* OpenCV
+* Object detection and tracking
+* TensorRT
+
+**Backend & Infrastructure**
+
+* FastAPI
+* REST API, WebSockets
+* Docker, Docker Compose
+* PostgreSQL
+
+## 🚀 Featured Projects
+
+### 🚗 Car Detection Service
+
+End-to-end computer vision service for car detection and real-time tracking.
+
+**Stack:** PyTorch, YOLO, OpenCV, TensorRT, FastAPI, WebSockets, Gradio, Docker, PostgreSQL
+
+→ [View repository](https://github.com/Mori48/ML_car_detection_service)
+
+### 📊 Telco Churn Prediction API
+
+End-to-end tabular ML project for customer churn prediction with model evaluation, F1 optimization and API deployment.
+
+**Stack:** Python, Scikit-learn, FastAPI, Docker, PostgreSQL
+
+→ [View repository](https://github.com/Mori48/Telco_API)
+
+
