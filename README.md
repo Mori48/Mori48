@@ -1,16 +1,22 @@
-## Hi there 👋
+## I'm Severyan 👋
 
-<!--
-**Mori48/Mori48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior ML Engineer focused on Machine Learning and Computer Vision.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, SQL, Pandas, NumPy
+- Scikit-learn, CatBoost, XGBoost
+- PyTorch, Ultralytics YOLO, OpenCV
+- FastAPI, Docker, Docker Compose
+- PostgreSQL
+- ML model evaluation and optimization
+
+### Featured Projects
+
+🚗 ML Car Detection Service
+Computer vision inference service with YOLO, tracking,
+TensorRT, FastAPI, WebSockets, Gradio and Docker.
+
+📊 Telco Churn Prediction API
+End-to-end tabular ML pipeline with model evaluation,
+F1 optimization, FastAPI, Docker and PostgreSQL.
